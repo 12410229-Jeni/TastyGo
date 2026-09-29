@@ -83,7 +83,7 @@ const foods: Food[] = [
   },
   {
     id: 10,
-    name: "Ayam Goreng",
+    name:"French Fries",
     price: 21000,
     image:
       "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=500",
@@ -160,7 +160,7 @@ const foods: Food[] = [
   },
   {
     id: 22,
-    name: "French Fries",
+    name: "Ice cream",
     price: 15000,
     image:
       "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=500",
