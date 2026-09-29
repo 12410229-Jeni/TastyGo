@@ -48,7 +48,7 @@ const foods: Food[] = [
   },
   {
     id: 5,
-    name: "Burger Daging Sapi",
+    name: "Beef Burger",
     price: 25000,
     image:
       "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500",
@@ -90,14 +90,14 @@ const foods: Food[] = [
   },
   {
     id: 11,
-    name: "Steak Daging Sapi",
+    name: "Steak",
     price: 45000,
     image:
       "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=500",
   },
   {
     id: 12,
-    name: "Sandwich Panggang",
+    name: "Sandwich",
     price: 22000,
     image:
       "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500",
@@ -111,7 +111,7 @@ const foods: Food[] = [
   },
   {
     id: 14,
-    name: "Kue Coklat",
+    name: "chocolate cake",
     price: 20000,
     image:
       "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500",
@@ -160,7 +160,7 @@ const foods: Food[] = [
   },
   {
     id: 22,
-    name: "Es Krim",
+    name: "French Fries",
     price: 15000,
     image:
       "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=500",
