@@ -118,11 +118,53 @@ const foods: Food[] = [
   },
   {
     id: 15,
+    name: "Vanilla Ice Cream",
+    price: 15000,
+    image: "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=500",
+  },
+  {
+    id: 16,
+    name: "Strawberry Cheesecake",
+    price: 25000,
+    image: "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500",
+  },
+  {
+    id: 17,
+    name: "Donat Glazed Manis",
+    price: 12000,
+    image: "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=500",
+  },
+  {
+    id: 18,
+    name: "Es Teh Manis",
+    price: 7000,
+    image: "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=500",
+  },
+  {
+    id: 19,
+    name: "Iced Coffee Latte",
+    price: 18000,
+    image: "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=500",
+  },
+  {
+    id: 20,
+    name: "Fresh Orange Juice",
+    price: 15000,
+    image: "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=500",
+  },
+  {
+    id: 21,
+    name: "Strawberry Smoothie",
+    price: 20000,
+    image: "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=500",
+  },
+  {
+    id: 22,
     name: "Es Krim",
     price: 15000,
     image:
       "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=500",
-  },
+  }, 
 ];
 
 function App() {
